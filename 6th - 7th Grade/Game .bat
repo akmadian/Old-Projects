@@ -78,9 +78,6 @@ echo President: "Shut up Tullius, I know" *FACEPALM*
 echo.
 pause
 cls
-goto 6
-:6 
-echo Thanks for paying attention throughout this entire crap program
 
 
 
